@@ -28,14 +28,12 @@ Analisador de expressão de propósito geral:
 Um novo analisador de expressão permite especificar condições complexas usando uma sintaxe comum em directivas como SetEnvIfExpr, RewriteCond, Header, <If>, e outros.
 
 
-#	NGINX
-nginx-1.13.4
+# nginx-1.13.4
 O ngx_http_mirror_modulemódulo (1.13.4) implementa o espelhamento de uma solicitação original criando subsequências de espelho de fundo. O resultado dos subcontratados de espelho é ignorado.
-nginx-1.13.3
+# nginx-1.13.3
 foram lançadas com uma correção para o estouro de números inteiros na vulnerabilidade do filtro de alcance.
 
-# WordPress
-4.6	Pepper
+# WordPress 4.6	Pepper
 Agora tanto os plugins e temas podem ser instalados, atualizados ou excluídos sem recarregar a página. O painel do WordPress agora aproveita as fontes que ousuário já tem, tornando o carregamento mais rápido. O editor verifica automaticamente erros acidentais nos links criados pelo usuário e também salva no navegador tudo que é digitado, permitindo recuperação a qualquer momento.
-4.7	Vaughan
+# WordPress 4.7	Vaughan
 Foi adicionado o tema padrão Twenty Seventeen, que trabalha com cabeçalhos em vídeo e este mesmo recurso pode ser usado em outros layouts. Agora o usuário pode personalizar enquanto instala o sistema. Na demonstração ao vivo, foi adicionado atalhos em secções do layout para facilitar a edição destes. Pode ser criado páginas diretamente enquanto se cria menus. Uma ótima ferramente que foi adicionada é o CSS customizado, onde o usuário pode adicionar seus próprios estilos diretamente no site, sem relação direta com o tema ativo. Para quem gosta de publicar arquivos PDF, agora é possível ver em miniaturas na galeria. Para quem gosta de utilizar multi idiomas, foi adicionada a possibilidade de ter vários idiomas que o usuário pode escolher ao utilizar o painel do WordPress.
