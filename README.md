@@ -34,7 +34,7 @@ O ngx_http_mirror_modulemódulo (1.13.4) implementa o espelhamento de uma solici
 nginx-1.13.3
 foram lançadas com uma correção para o estouro de números inteiros na vulnerabilidade do filtro de alcance.
 
-#WordPress
+# WordPress
 4.6	Pepper
 Agora tanto os plugins e temas podem ser instalados, atualizados ou excluídos sem recarregar a página. O painel do WordPress agora aproveita as fontes que ousuário já tem, tornando o carregamento mais rápido. O editor verifica automaticamente erros acidentais nos links criados pelo usuário e também salva no navegador tudo que é digitado, permitindo recuperação a qualquer momento.
 4.7	Vaughan
